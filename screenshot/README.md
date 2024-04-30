@@ -11,6 +11,7 @@
     * Theme [one-dark-green](#theme-one-dark-green)
     * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor)
     * Theme [one-dark-green-x](#theme-one-dark-green-x)
+    * Theme [tc24d-blue](#theme-tc24d-blue-or-tc24l-blue) or [tc24l-blue](#theme-tc24d-blue-or-tc24l-blue)
     * Theme [universal](#theme-universal)
     * Theme [universal-blue](#theme-universal-blue)
 * [Dark mode](#dark-mode)
@@ -24,6 +25,7 @@
     * Theme [one-dark-green](#theme-one-dark-green-1)
     * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor-1)
     * Theme [one-dark-green-x](#theme-one-dark-green-x-1)
+    * Theme [tc24d-blue](#theme-tc24d-blue)
     * Theme [universal](#theme-universal-1)
     * Theme [universal-blue](#theme-universal-blue-1)
 * [Light mode](#light-mode)
@@ -37,6 +39,7 @@
     * Theme [one-dark-green](#theme-one-dark-green-2)
     * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor-2)
     * Theme [one-dark-green-x](#theme-one-dark-green-x-2)
+    * Theme [tc24l-blue](#theme-tc24l-blue)
     * Theme [universal](#theme-universal-2)
     * Theme [universal-blue](#theme-universal-blue-2)
 
@@ -86,6 +89,10 @@
 ![screenshot-one-dark-green-x-dark](./one-dark-green-x/dark.png#gh-dark-mode-only)
 ![screenshot-one-dark-green-x-light](./one-dark-green-x/light.png#gh-light-mode-only)
 
+### Theme "tc24d-blue" or "tc24l-blue"
+![screenshot-tc24d-blue](./tc24d-blue/dark.png#gh-dark-mode-only)
+![screenshot-tc24l-blue](./tc24l-blue/light.png#gh-light-mode-only)
+
 ### Theme "universal"
 ![screenshot-universal-dark](./universal/dark.png#gh-dark-mode-only)
 ![screenshot-universal-light](./universal/light.png#gh-light-mode-only)
@@ -130,6 +137,9 @@
 ### Theme "one-dark-green-x"
 ![screenshot-one-dark-green-x-dark](./one-dark-green-x/dark.png)
 
+### Theme "tc24d-blue"
+![screenshot-tc24d-blue-dark](./tc24d-blue/dark.png)
+
 ### Theme "universal"
 ![screenshot-universal-dark](./universal/dark.png)
 
@@ -171,6 +181,9 @@
 
 ### Theme "one-dark-green-x"
 ![screenshot-one-dark-green-x-light](./one-dark-green-x/light.png)
+
+### Theme "tc24l-blue"
+![screenshot-tc24l-blue-light](./tc24l-blue/light.png)
 
 ### Theme "universal"
 ![screenshot-universal-light](./universal/light.png)
