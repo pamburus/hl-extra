@@ -8,17 +8,23 @@
 <clipPath id="header">
 <rect height="28" width="883.2"/>
 </clipPath>
-<rect clip-path="url(#header)" fill="#dcdcdd" height="56" rx="10" ry="10" width="883.2"/>
+<rect clip-path="url(#header)" fill="#eef0f1" height="56" rx="10" ry="10" width="883.2"/>
 <line stroke="#80808080" stroke-width="0.5" x1="0" x2="883.2" y1="28" y2="28"/><text dominant-baseline="central" fill="#474747" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" x="441.6" y="14">hl sample/cafe.log</text>
-<circle cx="14" cy="14" fill="#ff5f56" r="6"/>
-<circle cx="34" cy="14" fill="#ffbd2e" r="6"/>
-<circle cx="54" cy="14" fill="#28c941" r="6"/>
-<svg font-family="JetBrains Mono, Fira Code, Cascadia Code, Source Code Pro, Consolas, Menlo, Monaco, DejaVu Sans Mono, monospace" font-size="12" height="28.8em" width="73.6em" y="28">
-<svg fill="#383a42" x="0.8em" y="0.6em">
 <g>
-<rect fill="#ff8c00" height="1.22em" width="3.02em" x="5.39em" y="9.59em"/>
-<rect fill="#e06c75" height="1.22em" width="3.02em" x="5.39em" y="16.79em"/>
-<rect fill="#ff8c00" height="1.22em" width="3.02em" x="5.39em" y="17.99em"/>
+<circle cx="14" cy="14" fill="#ff5f56" r="6" stroke="#d85a51" stroke-width="0.5"/>
+<circle cx="34" cy="14" fill="#ffbd2e" r="6" stroke="#d19d36" stroke-width="0.5"/>
+<circle cx="54" cy="14" fill="#28c941" r="6" stroke="#39ac42" stroke-width="0.5"/>
+</g>
+<svg class="terminal" font-family="JetBrains Mono, Fira Code, Cascadia Code, Source Code Pro, Consolas, Menlo, Monaco, DejaVu Sans Mono, monospace" font-size="12" height="28.8em" width="73.6em" y="28">
+<svg fill="var(--fg)" x="0.8em" y="0.6em">
+<g>
+<svg height="27.6em" viewBox="0 0 72 27.6" width="72em">
+<g stroke-width="0.025">
+<path d="M5.4,9.6 H8.4 V10.8 H5.4 Z" fill="#ff8c00" stroke="#ff8c00"/>
+<path d="M5.4,16.8 H8.4 V18 H5.4 Z" fill="#e06c75" stroke="#e06c75"/>
+<path d="M5.4,18 H8.4 V19.2 H5.4 Z" fill="#ff8c00" stroke="#ff8c00"/>
+</g>
+</svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="0em">
 <text xml:space="preserve" y="0.96em"><tspan fill="#778899">08:00:00 </tspan><tspan fill="#778899">│</tspan><tspan fill="#48d1cc">INF</tspan><tspan fill="#778899">│ </tspan><tspan fill="#778899">cafe:</tspan><tspan fill="#262a33" font-weight="bold" x="12.6em">café </tspan><tspan fill="#262a33" font-weight="bold">opens </tspan><tspan fill="#262a33" font-weight="bold">for </tspan><tspan fill="#262a33" font-weight="bold">the </tspan><tspan fill="#262a33" font-weight="bold">day </tspan><tspan fill="#4169e1">weather</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">sunny </tspan><tspan fill="#4169e1">temperature</tspan><tspan fill="#778899">=</tspan><tspan fill="#228b22">21</tspan><tspan fill="#778899" font-style="italic" x="43.8em">→ </tspan><tspan fill="#778899" font-style="italic">cafe/main.go:15</tspan></text>
 </svg>
@@ -44,7 +50,7 @@
 <text xml:space="preserve" y="0.96em"><tspan fill="#778899">09:15:22 </tspan><tspan fill="#778899">│</tspan><tspan fill="#48d1cc">INF</tspan><tspan fill="#778899">│ </tspan><tspan fill="#778899">menu:</tspan><tspan fill="#262a33" font-weight="bold" x="12.6em">new </tspan><tspan fill="#262a33" font-weight="bold">special </tspan><tspan fill="#262a33" font-weight="bold">launched </tspan><tspan fill="#4169e1">dish</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"Lemon </tspan><tspan fill="#313641">Tart" </tspan><tspan fill="#4169e1">chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Isabella </tspan><tspan fill="#4169e1">critic-reviews</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">positive</tspan><tspan fill="#778899" font-style="italic" x="58.8em">→ </tspan><tspan fill="#778899" font-style="italic">menu/specials.go:75</tspan></text>
 </svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="9.6em">
-<text xml:space="preserve" y="0.96em"><tspan fill="#778899">10:02:54 </tspan><tspan fill="#fafafa">│WRN│</tspan><tspan fill="#778899" x="9em">weather:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">weather </tspan><tspan fill="#262a33" font-weight="bold">update </tspan><tspan fill="#4169e1">weather</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">drizzle </tspan><tspan fill="#4169e1">customer-flow</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">moderate </tspan><tspan fill="#4169e1">location</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">downtown</tspan><tspan fill="#778899" font-style="italic" x="57.6em">→ </tspan><tspan fill="#778899" font-style="italic">weather/monitor.go:60</tspan></text>
+<text xml:space="preserve" y="0.96em"><tspan fill="#778899">10:02:54 </tspan><tspan fill="var(--bg)">│WRN│</tspan><tspan fill="#778899" x="9em">weather:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">weather </tspan><tspan fill="#262a33" font-weight="bold">update </tspan><tspan fill="#4169e1">weather</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">drizzle </tspan><tspan fill="#4169e1">customer-flow</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">moderate </tspan><tspan fill="#4169e1">location</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">downtown</tspan><tspan fill="#778899" font-style="italic" x="57.6em">→ </tspan><tspan fill="#778899" font-style="italic">weather/monitor.go:60</tspan></text>
 </svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="10.8em">
 <text xml:space="preserve" y="0.96em"><tspan fill="#778899">11:03:23 </tspan><tspan fill="#778899">│</tspan><tspan fill="#48d1cc">INF</tspan><tspan fill="#778899">│ </tspan><tspan fill="#778899">cafe:</tspan><tspan fill="#262a33" font-weight="bold" x="12.6em">café </tspan><tspan fill="#262a33" font-weight="bold">closing </tspan><tspan fill="#262a33" font-weight="bold">for </tspan><tspan fill="#262a33" font-weight="bold">break </tspan><tspan fill="#4169e1">reason</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">staff-lunch </tspan><tspan fill="#4169e1">duration</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">30m</tspan><tspan fill="#778899" font-style="italic" x="45.6em">→ </tspan><tspan fill="#778899" font-style="italic">cafe/shutdown.go:20</tspan></text>
@@ -62,10 +68,10 @@
 <text xml:space="preserve" y="0.96em"><tspan fill="#778899">11:47:20 </tspan><tspan fill="#778899">│</tspan><tspan fill="#48d1cc">INF</tspan><tspan fill="#778899">│ </tspan><tspan fill="#778899">order:</tspan><tspan fill="#262a33" font-weight="bold" x="13.2em">order </tspan><tspan fill="#262a33" font-weight="bold">received </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">customer</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Lisa </tspan><tspan fill="#4169e1">pastry</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"Chocolate </tspan><tspan fill="#313641">Croissant" </tspan><tspan fill="#4169e1">table</tspan><tspan fill="#778899">=</tspan><tspan fill="#228b22">3</tspan><tspan fill="#778899" font-style="italic" x="60em">→ </tspan><tspan fill="#778899" font-style="italic">order/order.go:57</tspan></text>
 </svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="16.8em">
-<text xml:space="preserve" y="0.96em"><tspan fill="#e06c75">11:50:34 </tspan><tspan fill="#fafafa">│ERR│</tspan><tspan fill="#778899" x="9em">kitchen:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">kitchen </tspan><tspan fill="#262a33" font-weight="bold">error </tspan><tspan fill="#262a33" font-weight="bold">encountered </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Marco </tspan><tspan fill="#4169e1">error</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">OvenMalfunction</tspan><tspan fill="#778899" font-style="italic" x="57em">→ </tspan><tspan fill="#778899" font-style="italic">kitchen/chef.go:110</tspan></text>
+<text xml:space="preserve" y="0.96em"><tspan fill="#e06c75">11:50:34 </tspan><tspan fill="var(--bg)">│ERR│</tspan><tspan fill="#778899" x="9em">kitchen:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">kitchen </tspan><tspan fill="#262a33" font-weight="bold">error </tspan><tspan fill="#262a33" font-weight="bold">encountered </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Marco </tspan><tspan fill="#4169e1">error</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">OvenMalfunction</tspan><tspan fill="#778899" font-style="italic" x="57em">→ </tspan><tspan fill="#778899" font-style="italic">kitchen/chef.go:110</tspan></text>
 </svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="18em">
-<text xml:space="preserve" y="0.96em"><tspan fill="#778899">11:52:53 </tspan><tspan fill="#fafafa">│WRN│</tspan><tspan fill="#778899" x="9em">kitchen:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">order </tspan><tspan fill="#262a33" font-weight="bold">reassigned </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Isabella </tspan><tspan fill="#4169e1">previous-chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Marco</tspan><tspan fill="#778899" font-style="italic" x="52.2em">→ </tspan><tspan fill="#778899" font-style="italic">kitchen/assign.go:33</tspan></text>
+<text xml:space="preserve" y="0.96em"><tspan fill="#778899">11:52:53 </tspan><tspan fill="var(--bg)">│WRN│</tspan><tspan fill="#778899" x="9em">kitchen:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">order </tspan><tspan fill="#262a33" font-weight="bold">reassigned </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Isabella </tspan><tspan fill="#4169e1">previous-chef</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">Marco</tspan><tspan fill="#778899" font-style="italic" x="52.2em">→ </tspan><tspan fill="#778899" font-style="italic">kitchen/assign.go:33</tspan></text>
 </svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="19.2em">
 <text xml:space="preserve" y="0.96em"><tspan fill="#778899">11:58:11 </tspan><tspan fill="#778899">│</tspan><tspan fill="#48d1cc">INF</tspan><tspan fill="#778899">│ </tspan><tspan fill="#778899">kitchen:</tspan><tspan fill="#262a33" font-weight="bold" x="14.4em">order </tspan><tspan fill="#262a33" font-weight="bold">completed </tspan><tspan fill="#4169e1">order</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">"347" </tspan><tspan fill="#4169e1">status</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">ready </tspan><tspan fill="#4169e1">presentation</tspan><tspan fill="#778899">=</tspan><tspan fill="#313641">delicate</tspan><tspan fill="#778899" font-style="italic" x="52.2em">→ </tspan><tspan fill="#778899" font-style="italic">kitchen/chef.go:120</tspan></text>
@@ -92,6 +98,10 @@
 <rect fill="none" height="371.6" rx="9" ry="9" stroke="#ffffff80" stroke-width="0.5" width="881.2" x="1" y="1"/>
 </g>
 <style>
+.terminal {
+    --bg: #fafafa;
+    --fg: #383a42;
+}
 @font-face {
 	font-family: JetBrains Mono;
 	font-weight: 100 800;
