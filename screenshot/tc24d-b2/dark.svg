@@ -9,13 +9,18 @@
 <rect height="28" width="883.2"/>
 </clipPath>
 <rect clip-path="url(#header)" fill="#383837" height="56" rx="10" ry="10" width="883.2"/>
-<line stroke="#000000" stroke-width="0.5" x1="0" x2="883.2" y1="28" y2="28"/><text dominant-baseline="central" fill="#b3b3b3" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" x="441.6" y="14">hl sample/cafe.log</text>
-<circle cx="14" cy="14" fill="#ff5f56" r="6"/>
-<circle cx="34" cy="14" fill="#ffbd2e" r="6"/>
-<circle cx="54" cy="14" fill="#28c941" r="6"/>
-<svg font-family="JetBrains Mono, Fira Code, Cascadia Code, Source Code Pro, Consolas, Menlo, Monaco, DejaVu Sans Mono, monospace" font-size="12" height="28.8em" width="73.6em" y="28">
-<svg fill="#dcdfe4" x="0.8em" y="0.6em">
+<line stroke="#000000c0" stroke-width="0.5" x1="0" x2="883.2" y1="28" y2="28"/><text dominant-baseline="central" fill="#b3b3b3" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" x="441.6" y="14">hl sample/cafe.log</text>
 <g>
+<circle cx="14" cy="14" fill="#ff5f56" r="6" stroke="#ff5f56" stroke-width="0.5"/>
+<circle cx="34" cy="14" fill="#ffbd2e" r="6" stroke="#ffbd2e" stroke-width="0.5"/>
+<circle cx="54" cy="14" fill="#28c941" r="6" stroke="#28c941" stroke-width="0.5"/>
+</g>
+<svg class="terminal" font-family="JetBrains Mono, Fira Code, Cascadia Code, Source Code Pro, Consolas, Menlo, Monaco, DejaVu Sans Mono, monospace" font-size="12" height="28.8em" width="73.6em" y="28">
+<svg fill="var(--fg)" x="0.8em" y="0.6em">
+<g>
+<svg height="27.6em" viewBox="0 0 72 27.6" width="72em">
+<g stroke-width="0.025"/>
+</svg>
 <svg height="1.2em" overflow="hidden" width="72em" y="0em">
 <text xml:space="preserve" y="0.96em"><tspan fill="#636d83">08:00:00 </tspan><tspan fill="#636d83">│</tspan><tspan fill="#56b6c2">INF</tspan><tspan fill="#636d83">│ </tspan><tspan fill="#636d83">cafe:</tspan><tspan fill="#cfd7e5" x="12.6em">café </tspan><tspan fill="#cfd7e5">opens </tspan><tspan fill="#cfd7e5">for </tspan><tspan fill="#cfd7e5">the </tspan><tspan fill="#cfd7e5">day </tspan><tspan fill="#61afef">weather</tspan><tspan fill="#636d83">=</tspan><tspan fill="#abb2bf">sunny </tspan><tspan fill="#61afef">temperature</tspan><tspan fill="#636d83">=</tspan><tspan fill="#98c379">21</tspan><tspan fill="#636d83" font-style="italic" x="43.8em">→ </tspan><tspan fill="#636d83" font-style="italic">cafe/main.go:15</tspan></text>
 </svg>
@@ -89,6 +94,10 @@
 <rect fill="none" height="371.6" rx="9" ry="9" stroke="#f0f0f080" stroke-width="0.5" width="881.2" x="1" y="1"/>
 </g>
 <style>
+.terminal {
+    --bg: #282c34;
+    --fg: #dcdfe4;
+}
 @font-face {
 	font-family: JetBrains Mono;
 	font-weight: 100 800;
