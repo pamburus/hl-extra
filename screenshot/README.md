@@ -1,21 +1,14 @@
 # Screenshots
 
-* [Current mode](#current-mode)
+* Universal or dual themes in [current mode](#current-mode)
     * Theme [uni](#theme-uni)
     * Theme [hl-dark](#theme-hl-dark-or-hl-light) or [hl-light](#theme-hl-dark-or-hl-light)
     * Theme [one-dark-24](#theme-one-dark-24-or-one-light-24) or [one-light-24](#theme-one-dark-24-or-one-light-24)
     * Theme [ayu-dark-24](#theme-ayu-dark-24-or-ayu-light-24) or [ayu-light-24](#theme-ayu-dark-24-or-ayu-light-24)
-    * Theme [ayu-mirage-24](#theme-ayu-mirage-24)
     * Theme [classic](#theme-classic-or-classic-light) or [classic-light](#theme-classic-or-classic-light)
     * Theme [dmt](#theme-dmt)
     * Theme [lsd](#theme-lsd)
     * Theme [neutral](#theme-neutral)
-    * Theme [one-dark-blue](#theme-one-dark-blue)
-    * Theme [one-dark-blue-truecolor](#theme-one-dark-blue-truecolor)
-    * Theme [one-dark-blue-x](#theme-one-dark-blue-x)
-    * Theme [one-dark-green](#theme-one-dark-green)
-    * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor)
-    * Theme [one-dark-green-x](#theme-one-dark-green-x)
     * Theme [tc24d-blue](#theme-tc24d-blue-or-tc24l-blue) or [tc24l-blue](#theme-tc24d-blue-or-tc24l-blue)
     * Theme [tc24d-b2](#theme-tc24d-b2-or-tc24l-b2) or [tc24l-b2](#theme-tc24d-b2-or-tc24l-b2)
     * Theme [universal](#theme-universal)
@@ -25,17 +18,11 @@
     * Theme [hl-dark](#theme-hl-dark)
     * Theme [one-dark-24](#theme-one-dark-24)
     * Theme [ayu-dark-24](#theme-ayu-dark-24)
-    * Theme [ayu-mirage-24](#theme-ayu-mirage-24-1)
+    * Theme [ayu-mirage-24](#theme-ayu-mirage-24)
     * Theme [classic](#theme-classic)
     * Theme [dmt](#theme-dmt-1)
     * Theme [lsd](#theme-lsd-1)
     * Theme [neutral](#theme-neutral-1)
-    * Theme [one-dark-blue](#theme-one-dark-blue-1)
-    * Theme [one-dark-blue-truecolor](#theme-one-dark-blue-truecolor-1)
-    * Theme [one-dark-blue-x](#theme-one-dark-blue-x-1)
-    * Theme [one-dark-green](#theme-one-dark-green-1)
-    * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor-1)
-    * Theme [one-dark-green-x](#theme-one-dark-green-x-1)
     * Theme [tc24d-blue](#theme-tc24d-blue)
     * Theme [tc24d-b2](#theme-tc24d-b2)
     * Theme [universal](#theme-universal-1)
@@ -45,17 +32,10 @@
     * Theme [hl-light](#theme-hl-light)
     * Theme [one-light-24](#theme-one-light-24)
     * Theme [ayu-light-24](#theme-ayu-light-24)
-    * Theme [ayu-mirage-24](#theme-ayu-mirage-24-2)
     * Theme [classic](#theme-classic-light)
     * Theme [dmt](#theme-dmt-2)
     * Theme [lsd](#theme-lsd-2)
     * Theme [neutral](#theme-neutral-2)
-    * Theme [one-dark-blue](#theme-one-dark-blue-2)
-    * Theme [one-dark-blue-truecolor](#theme-one-dark-blue-truecolor-2)
-    * Theme [one-dark-blue-x](#theme-one-dark-blue-x-2)
-    * Theme [one-dark-green](#theme-one-dark-green-2)
-    * Theme [one-dark-green-truecolor](#theme-one-dark-green-truecolor-2)
-    * Theme [one-dark-green-x](#theme-one-dark-green-x-2)
     * Theme [tc24l-blue](#theme-tc24l-blue)
     * Theme [tc24l-b2](#theme-tc24l-b2)
     * Theme [universal](#theme-universal-2)
@@ -79,10 +59,6 @@
 ![screenshot-ayu-dark-24](./ayu-dark-24/dark.svg#gh-dark-mode-only)
 ![screenshot-ayu-light-24](./ayu-light-24/light.svg#gh-light-mode-only)
 
-### Theme "ayu-mirage-24"
-![screenshot-ayu-mirage-24-dark](./ayu-mirage-24/dark.svg#gh-dark-mode-only)
-![screenshot-ayu-mirage-24-light](./ayu-mirage-24/light.svg#gh-light-mode-only)
-
 ### Theme "classic" or "classic-light"
 ![screenshot-classic-dark](./classic/dark.svg#gh-dark-mode-only)
 ![screenshot-classic-light-light](./classic-light/light.svg#gh-light-mode-only)
@@ -102,30 +78,6 @@
 ### Theme "neutral"
 ![screenshot-neutral-dark](./neutral/dark.svg#gh-dark-mode-only)
 ![screenshot-neutral-light](./neutral/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-blue"
-![screenshot-one-dark-blue-dark](./one-dark-blue/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-blue-light](./one-dark-blue/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-blue-truecolor"
-![screenshot-one-dark-blue-truecolor-dark](./one-dark-blue-truecolor/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-blue-truecolor-light](./one-dark-blue-truecolor/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-blue-x"
-![screenshot-one-dark-blue-x-dark](./one-dark-blue-x/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-blue-x-light](./one-dark-blue-x/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-green"
-![screenshot-one-dark-green-dark](./one-dark-green/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-green-light](./one-dark-green/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-green-truecolor"
-![screenshot-one-dark-green-truecolor-dark](./one-dark-green-truecolor/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-green-truecolor-light](./one-dark-green-truecolor/light.svg#gh-light-mode-only)
-
-### Theme "one-dark-green-x"
-![screenshot-one-dark-green-x-dark](./one-dark-green-x/dark.svg#gh-dark-mode-only)
-![screenshot-one-dark-green-x-light](./one-dark-green-x/light.svg#gh-light-mode-only)
 
 ### Theme "tc24d-blue" or "tc24l-blue"
 ![screenshot-tc24d-blue](./tc24d-blue/dark.svg#gh-dark-mode-only)
@@ -176,24 +128,6 @@
 ### Theme "neutral"
 ![screenshot-neutral-dark](./neutral/dark.svg)
 
-### Theme "one-dark-blue"
-![screenshot-one-dark-blue-dark](./one-dark-blue/dark.svg)
-
-### Theme "one-dark-blue-truecolor"
-![screenshot-one-dark-blue-truecolor-dark](./one-dark-blue-truecolor/dark.svg)
-
-### Theme "one-dark-blue-x"
-![screenshot-one-dark-blue-x-dark](./one-dark-blue-x/dark.svg)
-
-### Theme "one-dark-green"
-![screenshot-one-dark-green-dark](./one-dark-green/dark.svg)
-
-### Theme "one-dark-green-truecolor"
-![screenshot-one-dark-green-truecolor-dark](./one-dark-green-truecolor/dark.svg)
-
-### Theme "one-dark-green-x"
-![screenshot-one-dark-green-x-dark](./one-dark-green-x/dark.svg)
-
 ### Theme "tc24d-blue"
 ![screenshot-tc24d-blue-dark](./tc24d-blue/dark.svg)
 
@@ -221,9 +155,6 @@
 ### Theme "ayu-light-24"
 ![screenshot-ayu-light-24](./ayu-light-24/light.svg)
 
-### Theme "ayu-mirage-24"
-![screenshot-ayu-migrage-24](./ayu-mirage-24/light.svg)
-
 ### Theme "classic-light"
 ![screenshot-classic-light](./classic-light/light.svg)
 
@@ -238,24 +169,6 @@
 
 ### Theme "neutral"
 ![screenshot-neutral-light](./neutral/light.svg)
-
-### Theme "one-dark-blue"
-![screenshot-one-dark-blue-light](./one-dark-blue/light.svg)
-
-### Theme "one-dark-blue-truecolor"
-![screenshot-one-dark-blue-truecolor-light](./one-dark-blue-truecolor/light.svg)
-
-### Theme "one-dark-blue-x"
-![screenshot-one-dark-blue-x-light](./one-dark-blue-x/light.svg)
-
-### Theme "one-dark-green"
-![screenshot-one-dark-green-light](./one-dark-green/light.svg)
-
-### Theme "one-dark-green-truecolor"
-![screenshot-one-dark-green-truecolor-light](./one-dark-green-truecolor/light.svg)
-
-### Theme "one-dark-green-x"
-![screenshot-one-dark-green-x-light](./one-dark-green-x/light.svg)
 
 ### Theme "tc24l-blue"
 ![screenshot-tc24l-blue-light](./tc24l-blue/light.svg)
