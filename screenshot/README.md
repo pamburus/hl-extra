@@ -6,8 +6,6 @@
     * Theme [one-dark-24](#theme-one-dark-24-or-one-light-24) or [one-light-24](#theme-one-dark-24-or-one-light-24)
     * Theme [ayu-dark-24](#theme-ayu-dark-24-or-ayu-light-24) or [ayu-light-24](#theme-ayu-dark-24-or-ayu-light-24)
     * Theme [classic](#theme-classic-or-classic-light) or [classic-light](#theme-classic-or-classic-light)
-    * Theme [dmt](#theme-dmt)
-    * Theme [lsd](#theme-lsd)
     * Theme [neutral](#theme-neutral)
     * Theme [tc24d-blue](#theme-tc24d-blue-or-tc24l-blue) or [tc24l-blue](#theme-tc24d-blue-or-tc24l-blue)
     * Theme [tc24d-b2](#theme-tc24d-b2-or-tc24l-b2) or [tc24l-b2](#theme-tc24d-b2-or-tc24l-b2)
@@ -20,8 +18,8 @@
     * Theme [ayu-dark-24](#theme-ayu-dark-24)
     * Theme [ayu-mirage-24](#theme-ayu-mirage-24)
     * Theme [classic](#theme-classic)
-    * Theme [dmt](#theme-dmt-1)
-    * Theme [lsd](#theme-lsd-1)
+    * Theme [dmt](#theme-dmt)
+    * Theme [lsd](#theme-lsd)
     * Theme [neutral](#theme-neutral-1)
     * Theme [tc24d-blue](#theme-tc24d-blue)
     * Theme [tc24d-b2](#theme-tc24d-b2)
@@ -33,8 +31,6 @@
     * Theme [one-light-24](#theme-one-light-24)
     * Theme [ayu-light-24](#theme-ayu-light-24)
     * Theme [classic](#theme-classic-light)
-    * Theme [dmt](#theme-dmt-2)
-    * Theme [lsd](#theme-lsd-2)
     * Theme [neutral](#theme-neutral-2)
     * Theme [tc24l-blue](#theme-tc24l-blue)
     * Theme [tc24l-b2](#theme-tc24l-b2)
@@ -66,14 +62,6 @@
 ### Theme "classic-plus"
 ![screenshot-classic-plus-dark](./classic-plus/dark.svg#gh-dark-mode-only)
 ![screenshot-classic-plus-light](./classic-plus/light.svg#gh-light-mode-only)
-
-### Theme "dmt"
-![screenshot-dmt-dark](./dmt/dark.svg#gh-dark-mode-only)
-![screenshot-dmt-light](./dmt/light.svg#gh-light-mode-only)
-
-### Theme "lsd"
-![screenshot-lsd-dark](./lsd/dark.svg#gh-dark-mode-only)
-![screenshot-lsd-light](./lsd/light.svg#gh-light-mode-only)
 
 ### Theme "neutral"
 ![screenshot-neutral-dark](./neutral/dark.svg#gh-dark-mode-only)
@@ -160,12 +148,6 @@
 
 ### Theme "classic-plus"
 ![screenshot-classic-plus-light](./classic-plus/light.svg)
-
-### Theme "dmt"
-![screenshot-dmt-light](./dmt/light.svg)
-
-### Theme "lsd"
-![screenshot-lsd-light](./lsd/light.svg)
 
 ### Theme "neutral"
 ![screenshot-neutral-light](./neutral/light.svg)
