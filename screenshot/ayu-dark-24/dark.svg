@@ -4,7 +4,7 @@
 <feGaussianBlur stdDeviation="12"/>
 </filter>
 <rect fill="#000000c0" filter="url(#shadow)" height="373.6" rx="10" ry="10" width="897.6" x="4" y="12"/>
-<rect fill="#0f1419" height="373.6" rx="10" ry="10" width="897.6"/>
+<rect fill="#0b0e14" height="373.6" rx="10" ry="10" width="897.6"/>
 <clipPath id="header">
 <rect height="28" width="897.6"/>
 </clipPath>
@@ -16,7 +16,7 @@
 <circle cx="54" cy="14" fill="#28c941" r="6" stroke="#28c941" stroke-width="0.5"/>
 </g>
 <svg class="terminal" font-family="JetBrains Mono, Fira Code, Cascadia Code, Source Code Pro, Consolas, Menlo, Monaco, DejaVu Sans Mono, monospace" font-size="12" height="345.6" width="897.6" y="28">
-<svg fill="#e6e1cf" x="9.6" y="7.2">
+<svg fill="#bfbdb6" x="9.6" y="7.2">
 <g>
 <svg height="331.2" viewBox="0 0 73.2 27.6" width="878.4">
 <g stroke-width="0.025"/>
@@ -40,7 +40,7 @@
 <text xml:space="preserve" y="0.96em"><tspan fill="#565b66">08:20:43 </tspan><tspan fill="#3f5d7f">[</tspan><tspan fill="#39bae6">INF</tspan><tspan fill="#3f5d7f">]</tspan><tspan fill="#3f5d7f" x="9em">feedback:</tspan><tspan fill="#95e6cb" x="15em">customer </tspan><tspan fill="#95e6cb">feedback </tspan><tspan fill="#565b66">› </tspan><tspan fill="#73b8ff">order</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">"345" </tspan><tspan fill="#73b8ff">customer</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">Alice </tspan><tspan fill="#73b8ff">rating</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#7fd962">5 </tspan><tspan fill="#73b8ff">feedback</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">"Exquisite </tspan><tspan fill="#bfbdb6">taste!"</tspan></text>
 </svg>
 <svg height="14.4" overflow="hidden" width="878.4" y="86.4">
-<text xml:space="preserve" y="0.96em"><tspan fill="#565b66">08:29:23 </tspan><tspan fill="#3f5d7f">[</tspan><tspan fill="#39bae6">INF</tspan><tspan fill="#3f5d7f">]</tspan><tspan fill="#3f5d7f" x="9em">supply:</tspan><tspan fill="#95e6cb" x="13.8em">ingredient </tspan><tspan fill="#95e6cb">delivery </tspan><tspan fill="#95e6cb">received </tspan><tspan fill="#565b66">› </tspan><tspan fill="#73b8ff">supplier</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">"Green </tspan><tspan fill="#bfbdb6">Farms" </tspan><tspan fill="#73b8ff">items</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#e6e1cf" font-weight="bold">[</tspan><tspan fill="#bfbdb6">Eggs</tspan><tspan fill="#bfbdb6" x="53.4em">Flour</tspan><tspan fill="#bfbdb6" x="57em">Blueberries</tspan><tspan fill="#e6e1cf" font-weight="bold">]</tspan><tspan fill="#565b66" font-style="italic" x="64.8em">→ </tspan><tspan fill="#565b66" font-style="italic">supply.go:50</tspan></text>
+<text xml:space="preserve" y="0.96em"><tspan fill="#565b66">08:29:23 </tspan><tspan fill="#3f5d7f">[</tspan><tspan fill="#39bae6">INF</tspan><tspan fill="#3f5d7f">]</tspan><tspan fill="#3f5d7f" x="9em">supply:</tspan><tspan fill="#95e6cb" x="13.8em">ingredient </tspan><tspan fill="#95e6cb">delivery </tspan><tspan fill="#95e6cb">received </tspan><tspan fill="#565b66">› </tspan><tspan fill="#73b8ff">supplier</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">"Green </tspan><tspan fill="#bfbdb6">Farms" </tspan><tspan fill="#73b8ff">items</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6" font-weight="bold">[</tspan><tspan fill="#bfbdb6">Eggs</tspan><tspan fill="#bfbdb6" x="53.4em">Flour</tspan><tspan fill="#bfbdb6" x="57em">Blueberries</tspan><tspan fill="#bfbdb6" font-weight="bold">]</tspan><tspan fill="#565b66" font-style="italic" x="64.8em">→ </tspan><tspan fill="#565b66" font-style="italic">supply.go:50</tspan></text>
 </svg>
 <svg height="14.4" overflow="hidden" width="878.4" y="100.8">
 <text xml:space="preserve" y="0.96em"><tspan fill="#565b66">09:15:22 </tspan><tspan fill="#3f5d7f">[</tspan><tspan fill="#39bae6">INF</tspan><tspan fill="#3f5d7f">]</tspan><tspan fill="#3f5d7f" x="9em">menu:</tspan><tspan fill="#95e6cb" x="12.6em">new </tspan><tspan fill="#95e6cb">special </tspan><tspan fill="#95e6cb">launched </tspan><tspan fill="#565b66">› </tspan><tspan fill="#73b8ff">dish</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">"Lemon </tspan><tspan fill="#bfbdb6">Tart" </tspan><tspan fill="#73b8ff">chef</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">Isabella </tspan><tspan fill="#73b8ff">critic-reviews</tspan><tspan fill="#3f5d7f">=</tspan><tspan fill="#bfbdb6">positive</tspan><tspan fill="#565b66" font-style="italic" x="60em">→ </tspan><tspan fill="#565b66" font-style="italic">menu/specials.go:75</tspan></text>
