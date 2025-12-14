@@ -1,6 +1,6 @@
 <svg height="437.6" width="961.6" xmlns="http://www.w3.org/2000/svg">
 <g transform="translate(32,16)">
-<filter id="shadow">
+<filter filterUnits="userSpaceOnUse" height="445.6" id="shadow" width="969.6" x="-32" y="-24">
 <feGaussianBlur stdDeviation="12"/>
 </filter>
 <rect fill="#000000c0" filter="url(#shadow)" height="373.6" rx="10" ry="10" width="897.6" x="4" y="12"/>
